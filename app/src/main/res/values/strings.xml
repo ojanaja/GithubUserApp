@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Github</string>
+
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="repository">Repositories:</string>
+    <string name="follower">followers</string>
+    <string name="following">following</string>
+    <string name="value">99</string>
+
+    <string name="detail_user">Detail User</string>
+    <string name="user_favorite">Favorite</string>
+    <string name="not_found">Search the user first.</string>
+    <string name="not_available">Add new Favorite first.</string>
+    <string name="setting">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="account">GitHub Account</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="search_hint">Enter username</string>
+    <string name="github_caption">Github</string>
+
+</resources>
